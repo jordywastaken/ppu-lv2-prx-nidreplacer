@@ -1,3 +1,5 @@
+# actually it doesn't work lmfao, will fix later
+
 # ppu-lv2-prx-nidreplacer
  ps3 command line tool to replace stub libraries fnid's, reverse engineered from ppu-lv2-prx-exportpickup.exe (4.75 sdk).
  
